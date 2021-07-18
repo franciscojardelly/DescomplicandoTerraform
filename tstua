@@ -1,0 +1,66 @@
+[33mcommit 45f87a359566908c42e593963f4ba8231edf83f0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Francisco Jardelly <franciscojardelly@gmail.com>
+Date:   Sat Jul 17 21:25:33 2021 -0300
+
+    teste
+
+[33mcommit 8714f965777e3f4f5b9327a68da5e268bf56b4fe[m
+Merge: 62a5e60 ab992dd
+Author: Francisco Jardelly <franciscojardelly@gmail.com>
+Date:   Sat Jul 17 21:24:34 2021 -0300
+
+    Merge branch 'master' of github.com:franciscojardelly/DescomplicandoTerraform
+
+[33mcommit ab992dd6b18b086fe6a8b5d0089fb26a8501aaa2[m
+Author: franciscojardelly <33380733+franciscojardelly@users.noreply.github.com>
+Date:   Sat Jul 17 19:06:08 2021 -0300
+
+    Delete Keyaccessgit.pub
+
+[33mcommit 5c695aacdc1b15e836e3ed31b4ad3c7a912a4d9f[m
+Author: franciscojardelly <33380733+franciscojardelly@users.noreply.github.com>
+Date:   Sat Jul 17 19:05:58 2021 -0300
+
+    Delete Keyaccessgit
+
+[33mcommit 62a5e604b3841b2c18cd39bfa8e5d336c5e84e15[m
+Author: Francisco Jardelly <franciscojardelly@gmail.com>
+Date:   Sat Jul 17 18:46:42 2021 -0300
+
+    remove keys
+
+[33mcommit 24101abea4c8ab169883c987c5d642129704b602[m[33m ([m[1;32mmain[m[33m)[m
+Author: Francisco Jardelly <franciscojardelly@gmail.com>
+Date:   Sat Jul 17 17:25:19 2021 -0300
+
+    teste commit
+
+[33mcommit c620ba01b88437a044e3f38229f3f44570790742[m
+Author: Francisco Jardelly <franciscojardelly@gmail.com>
+Date:   Sat Jul 17 17:13:06 2021 -0300
+
+    Criancao de 3 instancias ec2 01
+
+[33mcommit 56f60d0f2c4763847fd74d4c264584ce5b8efa80[m
+Author: Francisco Jardelly <franciscojardelly@gmail.com>
+Date:   Sat Jul 17 17:10:39 2021 -0300
+
+    Correcao .terraform diretorio 02
+
+[33mcommit 9ca7dceee823181601bcfc90774b930353dcf196[m
+Author: Francisco Jardelly <franciscojardelly@gmail.com>
+Date:   Sat Jul 17 17:08:07 2021 -0300
+
+    Correcao .terraform diretorio 01
+
+[33mcommit ea503cf58f628e0e58a37b1ba6f57aa2cc44b6bd[m
+Author: Francisco Jardelly <franciscojardelly@gmail.com>
+Date:   Sat Jul 17 17:06:49 2021 -0300
+
+    Correcao .terraform diretorio
+
+[33mcommit 5becc93aa5cdfcc9b1396b11f56498d449fb59d6[m
+Author: Francisco Jardelly <franciscojardelly@gmail.com>
+Date:   Sat Jul 17 14:50:47 2021 -0300
+
+    Criando 3 instancias EC2 na AWS
